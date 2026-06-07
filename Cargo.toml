@@ -1,0 +1,11 @@
+[package]
+name = "spectral-est"
+version = "0.1.0"
+edition = "2021"
+description = "Spectral estimation: periodogram, Welch, autoregressive (Yule-Walker), Bartlett methods"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/SuperInstance/spectral-est"
+keywords = ["spectral", "periodogram", "welch", "spectrum", "dsp"]
+categories = ["science", "mathematics", "algorithms"]
+authors = ["SuperInstance"]
+readme = "README.md"
